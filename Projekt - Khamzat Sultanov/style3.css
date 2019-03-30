@@ -1,0 +1,101 @@
+body
+{
+    font-family: 'Lato', sans-serif;
+    color:#00141a;
+    background-image: url("img/tlo.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+#logo
+{
+    margin: auto;
+    font-family: 'Lobster', cursive;
+    font-size: 46px;
+    text-align: center;   
+}
+
+#logo1
+{
+    padding-top: 5px;
+    margin-top:5px;
+}
+
+#mapa
+{
+    margin-top: 5px;
+}
+
+#kontakt
+{
+    padding-top:15px;
+    padding-left:17.5px;
+    text-align: left;
+    float: left;
+    width: 500px;
+}
+
+#mail
+{
+    padding-top: 10px;
+}
+
+#container
+{
+    width: 1000px;
+    margin: auto;
+    background: rgba(25, 129, 217, 0.5);
+    border-radius: 25px;
+
+}
+
+#square
+{
+    float:right;
+    width:735px;
+    margin-right:10px;
+    height: 640px;
+    background-color: #eada1c;
+    border-radius: 13px;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Pangolin', cursive;
+}
+
+#menu
+{
+    width:240px;
+}
+
+.podmenu
+{
+    height: 45px;
+    padding:30px;
+    text-align: center;
+    background-color: #f21818;
+    border-radius: 25px;
+    margin-top: 2.5px;
+    margin-bottom: 2.5px;
+}
+.podmenu:hover
+{
+    background-color: #e10707;
+}
+
+
+#footer
+{
+    text-align: center;
+    width: 1000px;
+    margin: auto;
+    color: black;
+    font-size: 20px;
+}
+
+a
+{
+    color: black; 
+    background-color: transparent; 
+    text-decoration: none;
+}
+
